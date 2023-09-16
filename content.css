@@ -1,0 +1,23 @@
+.boldLetters {
+    font-weight: bolder;
+    font-size: 105%;
+}
+
+.boldLettersCourierNew {
+    font-weight: bolder;
+    font-size: 110%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.boldLettersGeorgia {
+    font-weight: bolder;
+    font-size: 105%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.boldLettersArial {
+    font-weight: bolder;
+    font-size: 105%;
+    font-family: Arial, Helvetica, sans-serif;
+}

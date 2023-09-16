@@ -4,12 +4,17 @@
 <head>
     <title>Boldify</title>
     <link rel="stylesheet" type="text/css" href="popup.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 </head>
 
 <body>
-    <button id="makeBold">Activate Boldify</button>
-    <button id="toggleMagnify">Toggle Magnifying Glass</button>
-
+    <label for="font">Choose a font:</label>
+    <select id="boldifyFonts" name="fonts">
+        <option value="Courier New">Courier New</option>
+        <option value="Georgia">Georgia</option>
+        <option value="Arial">Arial</option>
+    </select>
+    <button id="makeBold">Boldify</button>
     <script src="popup.js"></script>
 </body>
 
