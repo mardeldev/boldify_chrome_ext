@@ -4,8 +4,7 @@
     "version": "1.0",
     "description": "Make the beginning of each word bold.",
     "permissions": [
-        "activeTab",
-        "scripting"
+        "activeTab"
     ],
     "host_permissions": [
         "<all_urls>"
