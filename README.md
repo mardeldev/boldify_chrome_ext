@@ -22,7 +22,7 @@ I wrote this extension quickly to solve a problem specific to me, so haven't inc
 # Installation
 
 ## Download and Packaging
-Download this repository, which should download as a zip. This will be your packaged folder. Then, load the folder as an unpacked extension in Chrome by navigating to chrome://extensions/, enabling "Developer mode", and clicking "Load unpacked" to select your folder.
+Download the contents of the `boldify` folder, and package it into a zip folder. Then, load the folder as an unpacked extension in Chrome by navigating to chrome://extensions/, enabling "Developer mode", and clicking "Load unpacked" to select your folder.
 
 ## Usage
 After loading the extension, you should see its icon next to the address bar in Chrome. Clicking the icon will open the popup. Click the "Boldify" button to activate the extension on the current tab.
