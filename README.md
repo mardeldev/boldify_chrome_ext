@@ -9,7 +9,7 @@ There aren't any significant scientific findings in support of Bionic Reading (T
 Features:
 - Boldify any web page.
 - Toggle on and off without needing to refresh the page.
-- Choose different fonts.
+- Choose between different fonts.
 
 Current limitations:
 - It may cause some links to stop working in which case you will need to refresh the page.
