@@ -14,7 +14,7 @@ try {
 var isBoldActive = false;
 
 
-function toggleBoldEffect(propertyOption) {
+export function toggleBoldEffect(propertyOption) {
 
     var paragraphs = document.querySelectorAll('p, h1, h2, h3, h4, h5, h6, div, li, #text, span');
 
@@ -28,8 +28,6 @@ function toggleBoldEffect(propertyOption) {
     }
     isBoldActive = !isBoldActive;
 }
-
-
 
 let replacedChar = '';
 

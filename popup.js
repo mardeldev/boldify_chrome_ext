@@ -20,8 +20,6 @@ fontOption.addEventListener('input', function () {
 
 })
 
-// let propertyOption = 'boldLetters';
-
 
 document.addEventListener('DOMContentLoaded', function () {
     var makeBoldButton = document.getElementById('makeBold');
